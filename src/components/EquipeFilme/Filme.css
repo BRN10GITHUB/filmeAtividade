@@ -1,0 +1,26 @@
+.div-filme{
+    display: flex;
+    justify-content: space-around;
+}
+.titulo{
+    text-align: initial;
+}
+.div-neflix{
+    display: flex;
+    justify-content: space-between;
+}
+.netflix{
+    color: red;
+}
+h4{
+    background-color: red;
+    color: white;
+    text-align: center;
+    width: 80px;
+    height: 25px ;
+    position: absolute;
+    margin: 0px;
+}
+.h4{
+    display: flex;
+}
